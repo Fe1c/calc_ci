@@ -9,4 +9,3 @@ class TestCalculatorApp:
 
     def test_subtract(self):
         assert 2 == calculator.subtract(5, 3)
-
